@@ -5,11 +5,12 @@ body{
 }
 .headersection{
     background-color: #1F2937;
-    padding: 15px 100px;
+    padding: 15px 200px;
 }
 .header{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .content{
     display:flex;
@@ -19,7 +20,7 @@ body{
 .signuptop{
     display:flex;
     flex-direction: column;
-    justify-content: flex-start;
+    align-items: flex-start;
 }
 .infosection{
 
@@ -35,7 +36,7 @@ body{
 }
 button{
     background-color: #3882F6;
-    padding: 8px 16px;
+    padding: 8px 30px;
      border: none;
   border-radius: 8px;
 }
@@ -52,6 +53,19 @@ a{
 h1, button, .headerlogo{
      color: #F9FAF8;
 }
+.secondary, a{
+     color: #E5E7EB;
+}
 .imageone{
-    width: 500px;
+    width: 600px;
+}
+h1{
+    font-size:48px;
+    weight: 900;
+}
+.secondary{
+    font-size: 18px;
+}
+.headerlogo{
+    font-size: 24px;
 }
