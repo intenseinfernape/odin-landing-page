@@ -4,3 +4,4 @@ Within this assignment, I will practice the techniques taught in the css and fle
 I will also showing an advanced understanding of html for the content on this page.
 
 Images used:
+Woman Sitting Near Table Using Macbook - Christina Morillo (https://www.pexels.com/photo/woman-sitting-near-table-using-macbook-1181449/)

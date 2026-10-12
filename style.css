@@ -1,8 +1,25 @@
 body{
     font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;;
 }
 .headersection{
-
+    display: flex;
+    background-color: #1F2937;
+    padding: 10px 100px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.content{
+    display:flex;
+    margin: 120px 0;
+}
+.signuptop{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 .infosection{
 
@@ -10,20 +27,31 @@ body{
 .quotesection{
 
 }
-.signup{
+.signupbottom{
 
 }
 .footer{
 
 }
 button{
-
+    background-color: #3882F6;
+    padding: 8px 16px;
+     border: none;
+  border-radius: 8px;
 }
 ul{
+    display: flex;
     list-style: none;
     padding: 0;
     margin: 0;
+    gap: 16px;
 }
 a{
     text-decoration: none;
+}
+h1, button, .headerlogo{
+     color: #F9FAF8;
+}
+.imageone{
+    width: 500px;
 }
