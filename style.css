@@ -69,3 +69,9 @@ h1{
 .headerlogo{
     font-size: 24px;
 }
+h2{
+    font size: 36px;
+    color: #1F2937;
+    weight: 900;
+    text-align: center;
+}
