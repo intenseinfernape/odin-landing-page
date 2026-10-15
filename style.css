@@ -61,7 +61,7 @@ h1, button, .headerlogo{
 }
 h1{
     font-size:48px;
-    weight: 900;
+    font-weight: 900;
 }
 .secondary{
     font-size: 18px;
@@ -70,8 +70,8 @@ h1{
     font-size: 24px;
 }
 h2{
-    font size: 36px;
+    font-size: 36px;
     color: #1F2937;
-    weight: 900;
+    font-weight: 900;
     text-align: center;
 }
