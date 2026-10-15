@@ -23,7 +23,7 @@ body{
     align-items: flex-start;
 }
 .infosection{
-
+margin: 30px;
 }
 .quotesection{
 
@@ -73,5 +73,22 @@ h2{
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+    text-align: center;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.infoboxes{
+    max-width: 200px;
+}
+.infoimage{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #3882F6;
+    width: 195px;
+}
+.description{
     text-align: center;
 }

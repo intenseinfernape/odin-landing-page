@@ -5,3 +5,11 @@ I will also showing an advanced understanding of html for the content on this pa
 
 Images used:
 Woman Sitting Near Table Using Macbook - Christina Morillo (https://www.pexels.com/photo/woman-sitting-near-table-using-macbook-1181449/)
+
+Altai Mountains Autumn - stafichukanatoly (https://pixabay.com/photos/altai-mountains-autumn-nature-6943982/)
+
+Landscape Roman Bridge River - ELG21 (https://pixabay.com/photos/landscape-roman-bridge-river-8487906/)
+
+Lake Sunset Boats - ELG21 (https://pixabay.com/photos/lake-sunset-boats-landscape-clouds-7377942/)
+
+Town Cyclades Greece - Palmeris (https://pixabay.com/photos/town-cyclades-greece-santorini-8310950/)
