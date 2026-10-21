@@ -31,16 +31,19 @@ height: 450px;
     background-color: #E5E7EB;
 }
 .signupbottom{
+    display:flex;
+    justify-content: space-between;
     background-color: #3882F6;
-    padding: 8px 30px;
-    margin: 75px 200px;
+    padding: 30px 100px;
+    margin: 75px 225px;
+    border-radius: 8px;
 }
 .footer{
 
 }
 button{
     background-color: #3882F6;
-    padding: 8px 30px;
+    padding: 5px 30px;
      border: none;
   border-radius: 8px;
 }
@@ -54,10 +57,10 @@ ul{
 a{
     text-decoration: none;
 }
-h1, button, .headerlogo{
+h1, button, .headerlogo, .actionheader{
      color: #F9FAF8;
 }
-.secondary, a{
+.secondary, .actiontext, a {
      color: #E5E7EB;
 }
 .imageone{
@@ -108,4 +111,16 @@ h2{
  font-weight: bold;
  text-align:end;
  margin: 5px;
+}
+.calltoaction{
+    display:flex;
+    flex-direction: column;
+}
+.buttontwo{
+    border: 2px solid  #F9FAF8;
+    align-self: center;
+}
+.actionheader{
+    font-size:20px;
+    font-weight: bold;
 }
