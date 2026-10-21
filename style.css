@@ -21,15 +21,19 @@ body{
     display:flex;
     flex-direction: column;
     align-items: flex-start;
+    margin-right: 30px;
 }
 .infosection{
-margin: 30px;
+height: 450px;
 }
 .quotesection{
-
+    padding: 100px 300px;
+    background-color: #E5E7EB;
 }
 .signupbottom{
-
+    background-color: #3882F6;
+    padding: 8px 30px;
+    margin: 75px 200px;
 }
 .footer{
 
@@ -74,6 +78,7 @@ h2{
     color: #1F2937;
     font-weight: 900;
     text-align: center;
+    margin: 40px;
 }
 .info{
     display: flex;
@@ -91,4 +96,16 @@ h2{
 }
 .description{
     text-align: center;
+}
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+.speaker{
+ font-size: 26px;
+ font-weight: bold;
+ text-align:end;
+ margin: 5px;
 }
