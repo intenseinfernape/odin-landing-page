@@ -101,6 +101,7 @@ h2{
     border-width: 5px;
     border-color: #418B24;
     width: 195px;
+    border-radius: 8px;
 }
 .description{
     text-align: center;
