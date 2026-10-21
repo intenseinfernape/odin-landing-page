@@ -1,10 +1,14 @@
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
+    border: 0;
+}
+.headersection, .footer{
+    background-color: #1F2937;
 }
 .headersection{
-    background-color: #1F2937;
     padding: 15px 200px;
 }
 .header{
@@ -39,7 +43,7 @@ height: 450px;
     border-radius: 8px;
 }
 .footer{
-
+    padding: 30px 200px;
 }
 button{
     background-color: #3882F6;
@@ -60,7 +64,7 @@ a{
 h1, button, .headerlogo, .actionheader{
      color: #F9FAF8;
 }
-.secondary, .actiontext, a {
+.secondary, .actiontext, .copyright, a {
      color: #E5E7EB;
 }
 .imageone{
@@ -123,4 +127,7 @@ h2{
 .actionheader{
     font-size:20px;
     font-weight: bold;
+}
+.copyright{
+    text-align: center;
 }
