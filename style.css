@@ -6,7 +6,7 @@ body{
     border: 0;
 }
 .headersection, .footer{
-    background-color: #1F2937;
+    background-color: #1A4734;
 }
 .headersection{
     padding: 15px 200px;
@@ -37,7 +37,7 @@ height: 450px;
 .signupbottom{
     display:flex;
     justify-content: space-between;
-    background-color: #3882F6;
+    background-color: #418B24;
     padding: 30px 100px;
     margin: 75px 225px;
     border-radius: 8px;
@@ -46,10 +46,11 @@ height: 450px;
     padding: 30px 200px;
 }
 button{
-    background-color: #3882F6;
+    background-color: #418B24;
     padding: 5px 30px;
      border: none;
   border-radius: 8px;
+  margin: 10px 0;
 }
 ul{
     display: flex;
@@ -98,7 +99,7 @@ h2{
 .infoimage{
     border-style: solid;
     border-width: 5px;
-    border-color: #3882F6;
+    border-color: #418B24;
     width: 195px;
 }
 .description{
@@ -123,6 +124,7 @@ h2{
 .buttontwo{
     border: 2px solid  #F9FAF8;
     align-self: center;
+    margin: 0;
 }
 .actionheader{
     font-size:20px;

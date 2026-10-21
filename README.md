@@ -4,7 +4,8 @@ Within this assignment, I will practice the techniques taught in the css and fle
 I will also showing an advanced understanding of html for the content on this page.
 
 Images used:
-Woman Sitting Near Table Using Macbook - Christina Morillo (https://www.pexels.com/photo/woman-sitting-near-table-using-macbook-1181449/)
+
+Globe Earth World Old - Alexas_Fotos (https://pixabay.com/photos/globe-earth-world-old-globe-5096026/)
 
 Altai Mountains Autumn - stafichukanatoly (https://pixabay.com/photos/altai-mountains-autumn-nature-6943982/)
 
